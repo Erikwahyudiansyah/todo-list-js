@@ -14,7 +14,7 @@ Aplikasi manajemen tugas sederhana berbasis JavaScript untuk mencatat aktivitas 
 - JavaScript (DOM Manipulation)
 
 ## 🔗 Demo
-Live Demo: https://username.github.io/todo-list-js/](https://erikwahyudiansyah.github.io/todo-list-js/
+Live Demo: https://erikwahyudiansyah.github.io/todo-list-js/
 
 ## 💻 Cara Menjalankan
 1. Clone repository ini
